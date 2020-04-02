@@ -5,3 +5,6 @@ authors:
 description: >
   a test dart package.
 homepage: https://github.com/peze/dart-test
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
