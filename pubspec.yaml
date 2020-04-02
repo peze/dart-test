@@ -1,0 +1,7 @@
+name: test-dart
+version: 0.0.1
+authors:
+- page <cpj1106@gmail.com>
+description: >
+  a test dart package.
+homepage: https://github.com/peze/dart-test
