@@ -1,7 +1,7 @@
-name: test_dart
+name: test1_dart
 version: 0.0.2
 authors:
-- page <cpj1106@gmail.com>
+- oss alibaba <alibabaopensource@gmail.com>
 description: >
   a test dart package.
 homepage: https://github.com/peze/dart-test
